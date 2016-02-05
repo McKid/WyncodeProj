@@ -1,0 +1,13 @@
+
+
+class Square
+	def initialize(side_length)
+		@side_length = side_length
+	
+end
+
+	s = Square.new(5)
+
+
+puts s.Square.new
+	

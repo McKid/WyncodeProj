@@ -1,0 +1,5 @@
+block = begin
+	puts "hello from block"
+	0
+	end
+	

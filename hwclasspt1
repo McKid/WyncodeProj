@@ -1,0 +1,11 @@
+class Square
+
+	attr.accessor :side_length
+
+end
+
+	s = Square.new
+
+	s.side_lenght = 5
+	s.side_length
+	

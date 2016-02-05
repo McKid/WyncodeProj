@@ -1,0 +1,13 @@
+celeb_name = "Britney Spears"
+celeb_age = "33"
+celeb_name = "Johnny Depp"
+celeb_name = "45"
+
+#OR use brackets
+
+celeb = ["Britany Spears, 33"]
+celeb = ["Johnny Depp, 45"]
+
+OR use hashes
+
+celeb = { name: "Britany Spears", age: }

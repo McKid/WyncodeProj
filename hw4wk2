@@ -1,0 +1,3 @@
+pets = ["Scooby", "Soco", "Summer", "Pixie", "Wilson", "Mason","Baron", "Brinkley", "Bella"]
+
+def first_letter(name)

@@ -1,0 +1,8 @@
+class String
+def monkey?
+self.eql? "monkey"
+end
+end
+puts "Hello World"
+puts "Hello World".monkey?
+puts "monkey".monkey?
